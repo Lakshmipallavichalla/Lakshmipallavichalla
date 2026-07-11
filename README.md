@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**Lakshmipallavichalla/Lakshmipallavichalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lakshmi Pallavi Challa 👋
 
-Here are some ideas to get you started:
+## Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my Data Analyst Portfolio! This repository showcases my projects, skills, and learning journey in data analytics.
+
+## About Me
+
+I am an aspiring Data Analyst with 2.5+ years of professional experience. I enjoy analyzing data and creating meaningful business insights using SQL and Excel.
+
+## Technical Skills
+
+- SQL (MySQL)
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Pivot Tables
+- Pivot Charts
+- Git & GitHub
+
+## Portfolio Projects
+
+### SQL Data Analyst Portfolio
+- E-commerce Sales Analysis
+- Customer Analysis
+- Sales Performance Analysis
+- SQL Joins
+- Aggregate Functions
+- GROUP BY & HAVING
+- Subqueries
+
+### Excel Sales Dashboard
+- Interactive Dashboard
+- Pivot Tables
+- Pivot Charts
+- KPI Dashboard
+- Sales Trend Analysis
+
+## Current Goal
+
+Building real-world Data Analyst projects and preparing for Data Analyst opportunities.
+
+## Contact
+
+🔗 GitHub: https://github.com/Lakshmipallavichalla
 -->
